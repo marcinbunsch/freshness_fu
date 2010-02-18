@@ -1,13 +1,12 @@
 FreshnessFu
 ===========
 
-Introduction goes here.
+FreshnessFu is a Rails plugin for marking objects not yet seen by the user.
+
+Please note: this is an experimental fork, for the original, go to http://github.com/kiszal/freshness_fu
+
+Copyright
+===========
 
 
-Example
-=======
-
-Example goes here.
-
-
-Copyright (c) 2010 kiszal, released under the MIT license
+Copyright (c) 2010 kiszal, Marcin Bunsch, released under the MIT license
